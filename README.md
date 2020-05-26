@@ -1,1 +1,3 @@
-# Discord.net-Bot
+# Discord.NET Bot
+
+i made a bot using c#
